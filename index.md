@@ -4,4 +4,4 @@ This is my first Github page. Plain MD seems to be very easy t work with, so I w
 
 ## So this is my subheading
 
-Trying something new is a good thing. Go see my [About Mats](https://matswarnolf.github.io/About_mats.md) page.
+Trying something new is a good thing. Go see my [About Mats](About_mats.md) page.
