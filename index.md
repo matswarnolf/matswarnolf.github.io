@@ -1,8 +1,8 @@
-# Mats Warnolf
+# Welcome to my GitHub pages
 
-This is my first Github page. Plain MD seems to be very easy to work with, so I will give this a try.
+I fell in love with MarkDown very quickly so I always wanted to be able to publish something that I had created using MarkDown. When I found this (Thank you Scott Hanselman) I knew I want to try it. 
 
-## So this is my subheading
+## So what will I be trying this out for? 
 
 Trying something new is a good thing. Go see my [About Mats](About_mats.md) page.
-Also have a look at my [blog](Test_blog_page.md)
+I will try to use this as my [blog](Test_blog_page.md)
