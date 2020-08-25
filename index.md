@@ -5,4 +5,4 @@ This is my first Github page. Plain MD seems to be very easy to work with, so I 
 ## So this is my subheading
 
 Trying something new is a good thing. Go see my [About Mats](About_mats.md) page.
-Also have a look at my [blog](test_blog_page.md)
+Also have a look at my [blog](Test_blog_page.md)
