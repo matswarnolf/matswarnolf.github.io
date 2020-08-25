@@ -4,7 +4,7 @@ So why would I want to setup my blog in Github pages, and especially just using 
 
 ## What about looks?
 
-![javascript](images\javascript.jpg)
+![javascript](images/javascript.jpg)
 
 Well, I suppose my process is a lot more important then the engine being used. So I'm going to go ahead with this project as I see fit for as long as it fits me. 
 
