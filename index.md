@@ -6,3 +6,5 @@ I fell in love with MarkDown very quickly so I always wanted to be able to publi
 
 Trying something new is a good thing. Go see my [About Mats](About_mats.md) page.
 I will try to use this as my [blog](Test_blog_page.md)
+
+Im also using this for my show notes for my swedish podcast [Office 365-podden]/(podd/office.365.podden.md).
