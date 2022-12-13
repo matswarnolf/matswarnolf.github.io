@@ -8,6 +8,4 @@ Här kan du hitta detaljerna för avsnitten.
 
 [Episod 4.22](/podd/S04E22.html)
 
-Tillbaka till [sajten][def]
-
-[def]: index.html
+Tillbaka till [sajten](../index.html)
