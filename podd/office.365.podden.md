@@ -8,4 +8,7 @@ Här kan du hitta detaljerna för avsnitten.
 
 [Episod 4.22](/podd/S04E22.md)
 
-Tillbaka till [bloggen](https://matswarnolf.github.io/)
+Tillbaka till [sajten][def]
+
+
+[def]: index.md
