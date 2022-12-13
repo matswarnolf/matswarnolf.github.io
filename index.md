@@ -5,7 +5,7 @@ So now I am here.
 
 ## So what will I be trying this out for?
 
-Trying something new is a good thing. Go see my [About Mats](About_mats.md) page.
-I will try to use this as my [blog](Test_blog_page.md)
+Trying something new is a good thing. Go see my [About Mats](About_mats.html) page.
+I will try to use this as my [blog](Test_blog_page.html)
 
-Im also using this for my show notes for my swedish podcast [Office 365-podden](podd/office.365.podden.md).
+Im also using this for my show notes for my swedish podcast [Office 365-podden](podd/office.365.podden.html).

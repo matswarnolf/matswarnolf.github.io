@@ -1,7 +1,7 @@
 # Blog
 
-[The woes of working from home](Working_from_home.md)
+[The woes of working from home](Working_from_home.html)
 
-[back to main site](index.md)
+[back to main site](index.html)
 
 copyright Mats Warnolf 2020
