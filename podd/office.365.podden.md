@@ -4,4 +4,7 @@ Här kan du hitta detaljerna för avsnitten.
 
 ## Episoder
 
-[Säsong 4, episod 21](/podd/S04E21.md)
+[Episod 4.21](/podd/S04E21.md)
+
+[Episod 4.22](/podd/S04E22.md)
+
